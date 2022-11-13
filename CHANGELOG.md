@@ -1,3 +1,15 @@
+# v0.0.3 (Sun Nov 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- correct EXPOSE to 80 ([@nullpackets](https://github.com/nullpackets))
+
+#### Authors: 1
+
+- [@nullpackets](https://github.com/nullpackets)
+
+---
+
 # v0.0.2 (Sun Nov 13 2022)
 
 :tada: This release contains work from a new contributor! :tada:
