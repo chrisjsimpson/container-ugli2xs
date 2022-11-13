@@ -1,3 +1,20 @@
+# v0.0.2 (Sun Nov 13 2022)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, null[@nullpackets](https://github.com/nullpackets), for all your work!
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:chrisjsimpson/container-ugli2xs ([@nullpackets](https://github.com/nullpackets))
+- add dbgate ([@nullpackets](https://github.com/nullpackets))
+
+#### Authors: 1
+
+- [@nullpackets](https://github.com/nullpackets)
+
+---
+
 # v0.0.1 (Sat Nov 12 2022)
 
 :tada: This release contains work from a new contributor! :tada:
